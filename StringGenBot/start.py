@@ -23,15 +23,15 @@ Wᴇʟᴄᴏᴍᴇ Tᴏ {me2},
 ꜱᴛɪʟʟ ʀᴇᴀᴅɪɴɢ ?
 ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ( ᴇᴠᴇɴ ᴠᴇʀꜱɪᴏɴ 2 ) ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ. ᴜꜱᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ !
 
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [@InflexUpdates](https://t.me/InflexUpdates) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [ᴛᴀɪᴛᴀɴ](https://t.me/taitangamerz) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="🔥 Sᴛᴀʀᴛ Gᴇɴᴇʀᴀᴛɪɴɢ Sᴇꜱꜱɪᴏɴ 🔥", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❤️ Uᴘᴅᴀᴛᴇꜱ ❤️", url="https://t.me/InflexUpdates"),
-                    InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
+                    InlineKeyboardButton("❤️ Uᴘᴅᴀᴛᴇꜱ ❤️", url="https://t.me/timepassgroup01"),
+                    InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=5418102507)
                 ]
             ]
         ),
